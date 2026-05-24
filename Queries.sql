@@ -8,4 +8,6 @@ where a.s >= b.s
 order by a.s,b.s)
 group by c2
 
+
 select * from customers;
+
